@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-image-gallery-4b781": {
+      "hosting": {
+        "ImageGalleryWithAngularAndFireBase": [
+          "angular-image-gallery-4b781"
+        ]
+      }
+    }
+  }
+}
